@@ -1,0 +1,2 @@
+# oo-emacs-init
+
